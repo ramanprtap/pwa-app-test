@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PWA-APP/static/css/main.5f361e03.chunk.css",
+    "main.js": "/PWA-APP/static/js/main.437fd12e.chunk.js",
+    "main.js.map": "/PWA-APP/static/js/main.437fd12e.chunk.js.map",
+    "runtime-main.js": "/PWA-APP/static/js/runtime-main.0275cb80.js",
+    "runtime-main.js.map": "/PWA-APP/static/js/runtime-main.0275cb80.js.map",
+    "static/js/2.fcc91d1a.chunk.js": "/PWA-APP/static/js/2.fcc91d1a.chunk.js",
+    "static/js/2.fcc91d1a.chunk.js.map": "/PWA-APP/static/js/2.fcc91d1a.chunk.js.map",
+    "index.html": "/PWA-APP/index.html",
+    "precache-manifest.d557bbb00b8265c785faa2b09dd81389.js": "/PWA-APP/precache-manifest.d557bbb00b8265c785faa2b09dd81389.js",
+    "service-worker.js": "/PWA-APP/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/PWA-APP/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fcc91d1a.chunk.js.LICENSE.txt": "/PWA-APP/static/js/2.fcc91d1a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/PWA-APP/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0275cb80.js",
+    "static/js/2.fcc91d1a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.437fd12e.chunk.js"
+  ]
+}
