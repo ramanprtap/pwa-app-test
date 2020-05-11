@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Service workers are the proxy servers that connect the app and network. With Service Worker, you will have to intercept network requests and save cached files. This will enable your app to work even when the network is unavailable.
+        Service workers are the proxy servers that connect the app and network. With Service Worker, 
+        you will have to intercept network requests and save cached files. This will enable your app to work even when the network is unavailable.
         </p>
 
       </header>
